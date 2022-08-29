@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Harman-preet-singh13
+
 - 👀 I’m interested in 
--   -> Web devloping 
+-   -> Web devloping and
 -   -> Data structures and algorithms.
--   
+
 - 🌱 I’m currently learning MERN stack
+
 - 📫 How to reach me Linkedin- 
 
 <!---
