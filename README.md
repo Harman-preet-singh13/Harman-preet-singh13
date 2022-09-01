@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Harman-preet-singh13
-
+- 👋 Hi, I’m Harmanpreet Singh
+- 
+-  Life motto- Slow and steady. 
+      
 - 👀 I’m interested in 
 -   -> Web devloping and
 -   -> Data structures and algorithms.
