@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harmanpreet Singh
-- 
--  Life motto- Slow and steady. 
+-  Life motto- Slow down, Clam down, Don't worry, Don't hurry, Trust the process
       
 - 👀 I’m interested in 
 -   -> Web devloping and
